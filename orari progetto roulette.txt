@@ -1,0 +1,22 @@
+08.05 	4 ore			progettazione
+09.05	2 ore e 30  	progettazione + 2 ore per ThreadPiatto
+10.05	2 ore 			progettazione e ricerca immagini da modificare
+11.05	2 ore 			continuo gestione ThreadPiatto
+14.05 	1 ora 			inizio gestione Tabellone
+15.05	8 ore 			continuo gestione Tabellone e listener vari
+16.05	2 ore 			scelta colori per tavolo con aiuto di esperto in materia (Twitch streamer)
+17.05	2 ore 			continuo gestione Tabellone
+18.05	2 ore e 30 		gestione risultati e Menu
+19.05	1 ora 			continuo gestione risultati
+20.05	3 ore 			risoluzione bug
+23.05	1 ora e 30 		testing vario
+24.05	2 ore e 30 		funzione riavvio e risoluzione di altri bug
+
+tot = 34 ore 
+
+
+Lavoro Francesco Longobardi
+11.05	4 ore e 30		modifica e rinomina delle immagini
+18.05	1 ora e 30 		creazione ultime immagini e logo
+
+tot = 6 ore
