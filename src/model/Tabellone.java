@@ -116,7 +116,7 @@ public class Tabellone {
 		nPuntato.add(new JLabel("SCELTA = "));
 		nPuntato.add(new JLabel("NULLA"));
 		nPuntato.add(new JLabel("TEMPO MANCANTE A RISULTATO= "));
-		nPuntato.add(new JLabel("PUNTA PRIMA IDIOTA"));
+		nPuntato.add(new JLabel("PUNTA PRIMA "));
 	}
 	
 	
